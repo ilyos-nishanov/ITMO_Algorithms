@@ -1,0 +1,27 @@
+#  lau15_main.txt
+#
+#  Discussion:
+#
+#    15 abstract cities, for which a solution to the traveling salesman
+#    problem is sought.
+#
+#    The solution is a path of length 291 units.
+#
+#  Modified:
+#
+#    11 February 2009
+#
+#  Author:
+#
+#    John Burkardt
+#
+#  Reference:
+#
+#    H T Lau,
+#    Combinatorial Heuristic Algorithms in FORTRAN,
+#    Springer Verlag, 1986.
+#
+size   15
+geom   plane
+dist   lau15_dist.txt
+tsp    lau15_tsp.txt

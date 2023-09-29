@@ -1,0 +1,20 @@
+#  lau15_tsp.txt
+#
+#  The sequence of cities that forms a minimal length path
+#  for the traveling salesman problem.  The path length is 291 units.
+#
+  1
+ 13
+  2
+ 15
+  9
+  5
+  7
+  3
+ 12
+ 14
+ 10
+  8
+  6
+  4
+ 11
